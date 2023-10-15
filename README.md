@@ -14,7 +14,7 @@ Overall, this dataset tests me with lots of excel knowledge. I recommend everyon
 
 Original dataset : https://docs.google.com/spreadsheets/d/13JNa5gDh4L5p4kVwRzCvhPC56-8GlZaU/edit?usp=drive_link&ouid=111559958980553890058&rtpof=true&sd=true
 
-Snippet from dashboard:
+Snippet from the dashboard:
 ![image](https://github.com/ShinyFiver/SalesDashboard/assets/116712311/a0702f4d-a0c2-4584-9d94-ea8756ea0c39)
 ![image](https://github.com/ShinyFiver/SalesDashboard/assets/116712311/b2bfa359-a050-4245-8b97-7c0a820b2419)
 
